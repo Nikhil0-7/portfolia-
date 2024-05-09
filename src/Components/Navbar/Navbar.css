@@ -49,7 +49,7 @@
 .nav-mob-open{
     display: none;
 }
-@media screen and (max-width:768px){
+@media (max-width:768px){
     .nav-connect{
         display: none;
     }
